@@ -55,7 +55,7 @@ mount /data 2>/dev/null
 . /data/adb/magisk/util_functions.sh
 [ $MAGISK_VER_CODE -gt 18100 ] || require_new_magisk
 
-# Preperation for flashable zips
+# Preparation for flashable zips
 setup_flashable
 
 # Mount partitions
