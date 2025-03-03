@@ -5,4 +5,4 @@
 
 
 <h3> Hola 
-Está es una copia del módulo magiskdns4cloudflare adaptado a mi teléfono Redmi 10 5g y y privado de no servir las IP tables se hacen manual por el termux y etc disfrute pero creo que esto nada más lo disfruto yo jjj 🤣 si quieren pueden enseñar yo soy ñame y para más autodidacta.</h3>
+Está es una copia del módulo magiskdns4cloudflare adaptado a mi teléfono Redmi 10 5g y de no servir las IP tables se hacen manual por el termux y etc disfrute pero creo que esto nada más lo disfruto yo jjj 🤣 si quieren pueden enseñar yo soy ñame y para más autodidacta.</h3>
