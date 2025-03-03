@@ -1,0 +1,6 @@
+id=cloudflaredns
+name=CloudflareDNS
+version=1.0
+versionCode=1
+author=GOJO247
+description=Configura los servidores DNS de Cloudflare y redirige el tráfico DNS con iptables.
