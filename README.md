@@ -1,12 +1,3 @@
-<h1 align="center">
-<img src="https://image.ibb.co/e6OwXH/cloudflare.jpg">
-<br />
-<img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a><br /><img src="https://img.shields.io/badge/Status-Stable-green.svg?longCache=true&style=flat-square"alt="_time_stamp_" />
-
-
-<h3> Hola 
-Está es una copia del módulo magiskdns4cloudflare adaptado a mi teléfono Redmi 10 5g y de no servir las IP tables se hacen manual por el termux y etc disfrute pero creo que esto nada más lo disfruto yo jjj 🤣 si quieren pueden enseñar yo soy ñame y para más autodidacta.</h3>
-
 # CloudflareDNS4Magisk
 
 [![XDA-Thread](https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square)](https://forum.xda-developers.com/)
@@ -111,10 +102,8 @@ Un agradecimiento especial a:
 
 ## Capturas de Pantalla
 
-### Pruebas de Velocidad con Cloudflare DNS
-![speedtestscr1](https://image.ibb.co/mkEg1c/Screenshot_20180404_161654.png)
+### Captura de Termux
+<img src="https://i.ibb.co/5WKz6gnK/Screenshot-2025-03-02-19-36-32-772-com-termux.jpg" alt="Captura de Termux" width="400" />
 
-### Verificación con nslookup
-![speedtestscr2](https://image.ibb.co/eLGTgc/Screenshot_20180404_161711.png)
-![speedtestscr3](https://image.ibb.co/cmpdWc/Screenshot_20180404_191656.png)
-![speedtestscr4](https://image.ibb.co/eXPUBc/Screenshot_20180407_202353.png)
+### Captura de Mark via GP
+<img src="https://i.ibb.co/nqwgHhzd/Screenshot-2025-03-02-19-42-07-755-mark-via-gp.jpg" alt="Captura de Mark via GP" width="400" />
